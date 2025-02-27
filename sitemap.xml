@@ -1,0 +1,38 @@
+<?xml?>
+<urlset>
+    <url>
+        <loc>
+            http://localhost:8000/how-india-celebrates-diwali-across-different-regions/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/how-diwali-is-celebrated-around-the-world/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/diwali-blog-posts/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/contact-page/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/uncategorized/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/author/harpuneetkaurr/
+        </loc>
+    </url>
+</urlset>
